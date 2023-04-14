@@ -99,7 +99,7 @@
   <object id="8" type="collision" x="304.16" y="111.525" width="63.2175" height="33.3979"/>
   <object id="9" type="collision" x="113.314" y="112.718" width="62.0248" height="29.8196"/>
   <object id="10" name="exit_house" x="177.725" y="305.353" width="60.2356" height="31.0124"/>
-  <object id="11" name="spawn_house" x="206.948" y="293.425">
+  <object id="11" name="spawn_house" x="265.991" y="288.057">
    <point/>
   </object>
  </objectgroup>
