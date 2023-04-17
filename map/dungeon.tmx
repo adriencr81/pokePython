@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="41">
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="43">
  <tileset firstgid="1" source="dungeon2.tsx"/>
  <layer id="1" name="floor" width="50" height="50">
   <data encoding="csv">
@@ -260,5 +260,9 @@
   <object id="40" name="spawn_dungeon" x="307.333" y="722">
    <point/>
   </object>
+ </objectgroup>
+ <objectgroup id="6" name="NPCPaths">
+  <object id="41" name="boss_path1" x="224.667" y="192.667" width="16" height="16"/>
+  <object id="42" name="boss_path2" x="224" y="384.667" width="16.6667" height="15.3333"/>
  </objectgroup>
 </map>
